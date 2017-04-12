@@ -25,6 +25,43 @@
 			<p>This is a link to my favorite site: <a href="http://php.net" target="_blank">PHP.net</a></p>
 			<p>This is a link to my about me page: <a href="about/index.php">About Me</a></p>
 
+			<h2>A few of my favorite things:</h2>
+				<ul>
+					<li>Good food</li>
+					<li>Sunshine</li>
+					<li>Music</li>
+				</ul>
+
+				<ol>
+					<li>This class</li>
+					<li>My truck</li>
+					<li>Photography</li>
+				</ol>
+
+			<h2>Cats &amp; Dogs</h2>
+			<table>
+				<tr>
+					<th>Cats</th>
+					<th>Dogs</th>
+				</tr>
+				<tr>
+					<td>Tabby</td>
+					<td>Bulldog</td>
+				</tr>
+				<tr>
+					<td>Persian</td>
+					<td>Beagle</td>
+				</tr>
+				<tr>
+					<td>Senator</td>
+					<td>Janitor</td>
+				</tr>
+				<tr>
+					<td>Grumpy</td>
+					<td>Happy</td>
+				</tr>
+			</table>
+
 		</main>
 	</body>
 </html>
