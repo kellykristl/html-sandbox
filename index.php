@@ -23,6 +23,7 @@
 			</p>
 			<img src="images/about.jpg" alt="me">
 			<p>This is a link to my favorite site: <a href="http://php.net" target="_blank">PHP.net</a></p>
+			<p>This is a link to my about me page: <a href="about/index.php">About Me</a></p>
 
 		</main>
 	</body>
